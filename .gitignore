@@ -1,0 +1,29 @@
+# Dataset
+data/
+
+# Generated outputs
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# IDE
+.vscode/
+.idea/
+
+# Model / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
